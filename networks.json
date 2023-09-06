@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "AmphoraProtocol": {
+      "address": "0x943c5F4F54509d1e78B1fCD93B92c43ce83d3141",
+      "startBlock": 18043747
+    }
+  }
+}
